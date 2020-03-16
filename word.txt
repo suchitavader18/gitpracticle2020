@@ -6,5 +6,7 @@ user_info={
 'fav_movies':['Titanic','Lord of the Ring'],
 'fav_food':['Fish','chicken chilli'],
 }
+more_info={'state':'Haryana','hobbies':['coding','reading'],
+user_info.update(more_info)
 print(user_info)
 
