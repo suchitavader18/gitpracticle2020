@@ -1,0 +1,10 @@
+# Dictionary
+
+user_info={
+'name':'Suchita',
+'age':25,
+'fav_movies':['Titanic','Lord of the Ring'],
+'fav_food':['Fish','chicken chilli'],
+}
+print(user_info)
+
